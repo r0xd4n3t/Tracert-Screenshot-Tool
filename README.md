@@ -34,4 +34,10 @@ Troubleshooting network problems often requires a detailed understanding of the 
 
 Whether you're a network administrator maintaining a complex infrastructure, a developer debugging application connectivity, or simply curious about how your data traverses the Internet, the Tracert Screenshot Tool empowers you to gain deeper insights into your network's behavior. Feel free to explore, contribute, and adapt this tool to suit your networking requirements. Let's unravel the mysteries of network routing together!
 
+# Contribution
+Found a bug or want to enhance PingCapture's features? Contributions are welcome! Feel free to fork this repository, make your changes, and submit a pull request.
+
+# License
+This project is licensed under the **MIT License**.
+
 <p align="center"><a href=#top>Back to Top</a></p>
